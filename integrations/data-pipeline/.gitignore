@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 运行时数据
+output/
+cookies/
+*.bak
+
+# 环境变量
+.env
+.env.local
+
+# Docker
+.DS_Store

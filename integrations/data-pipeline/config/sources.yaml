@@ -1,0 +1,36 @@
+# 数据采集源配置
+# 灵感来自 atlens-pipeline 的 sources.yaml — 单一数据源真相
+
+zhaopin:
+  name: 智联招聘
+  base_url: https://www.zhaopin.com
+  search_url: https://sou.zhaopin.com/jobs/searchresult.ashx
+  detail_url_pattern: "https://jobs.zhaopin.com/{job_id}.htm"
+  api:
+    similar_positions: "https://fe-api.zhaopin.com/c/i/similar-positions?number={job_id}"
+  auth:
+    method: cookie  # cookie / api_key / oauth
+    cookie_keys:
+      - "at"
+      - "rt"
+      - "acw_tc"
+  rate_limit:
+    requests_per_minute: 20
+    delay_between_requests: 3.0
+  pagination:
+    type: query_param  # query_param / cursor / scroll
+    param: "p"
+    start: 1
+
+# 未来扩展（Week 2+）
+# liepin:
+#   name: 猎聘网
+#   base_url: https://www.liepin.com
+#   ...
+
+# github:
+#   name: GitHub
+#   api_url: https://api.github.com
+#   auth:
+#     method: api_key
+#   ...

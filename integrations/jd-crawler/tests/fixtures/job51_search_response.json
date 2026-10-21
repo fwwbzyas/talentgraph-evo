@@ -1,0 +1,42 @@
+{
+  "_fixture_note": "本 fixture 按 51job search-pc 接口的公开返回结构重建(沙箱内 API 被阿里云 WAF 拦截,未能实测真实响应)。字段名来自公开情报,仅用于解析逻辑单测。",
+  "status": "1",
+  "message": "成功",
+  "resultbody": {
+    "totalcount": "1234",
+    "joblist": [
+      {
+        "jobid": "156789012",
+        "jobname": "Python开发工程师",
+        "providesalarytext": "1.5-2.5万/月",
+        "workarea": "020000",
+        "workareashow": "上海-浦东新区",
+        "company_name": "示例科技",
+        "fullcompanyname": "示例科技（上海）有限公司",
+        "degreefrom": "本科",
+        "workyear": "3-5年",
+        "updatedate": "2026-08-10 10:00:00",
+        "issuedate": "2026-08-01",
+        "jobhref": "https://jobs.51job.com/shanghai/156789012.html",
+        "companysize_text": "500-1000人",
+        "companyindustrytype_text": "互联网/电子商务"
+      },
+      {
+        "jobid": "156789013",
+        "jobname": "数据分析师(爬虫方向)",
+        "providesalarytext": "1-1.8万·13薪",
+        "workarea": "010000",
+        "workareashow": "北京",
+        "company_name": "样例网络",
+        "fullcompanyname": "北京样例网络技术有限公司",
+        "degreefrom": "硕士",
+        "workyear": "1-3年",
+        "updatedate": "2026-08-11 09:30:00",
+        "issuedate": "2026-08-05",
+        "jobhref": "https://jobs.51job.com/beijing/156789013.html",
+        "companysize_text": "1000人以上",
+        "companyindustrytype_text": "计算机软件"
+      }
+    ]
+  }
+}

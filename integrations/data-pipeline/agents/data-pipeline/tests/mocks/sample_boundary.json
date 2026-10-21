@@ -1,0 +1,33 @@
+{
+  "description": "边界情况 — 字段缺失、重复、边缘数据",
+  "data": [
+    {
+      "source": "zhaopin",
+      "source_url": "https://jobs.zhaopin.com/CZ999001.htm",
+      "title": "实习",
+      "company": null,
+      "description": "招人。",
+      "required_skills_raw": [],
+      "optional_skills_raw": [],
+      "salary_range": null,
+      "location": null,
+      "experience": null,
+      "education": null,
+      "publish_date": null
+    },
+    {
+      "source": "zhaopin",
+      "source_url": "https://jobs.zhaopin.com/CZ123456.htm",
+      "title": "Python后端开发工程师（重复URL）",
+      "company": "某科技有限公司",
+      "description": "岗位职责：1. 负责公司核心业务系统的后端开发与维护；2. 参与系统架构设计，编写高质量Python代码；3. 使用Django/Flask框架进行Web应用开发。\n\n任职要求：1. 本科及以上学历；2. 3年以上Python开发经验；3. 熟悉MySQL、Redis。",
+      "required_skills_raw": ["Python", "Django", "MySQL"],
+      "optional_skills_raw": [],
+      "salary_range": "15K-25K",
+      "location": "北京",
+      "experience": "3-5年",
+      "education": "本科",
+      "publish_date": "2025-12-01"
+    }
+  ]
+}

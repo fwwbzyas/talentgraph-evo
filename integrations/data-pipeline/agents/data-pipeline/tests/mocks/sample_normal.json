@@ -1,0 +1,47 @@
+{
+  "description": "正常 JD 数据 — 模拟智联招聘搜'Python工程师'的返回结果",
+  "data": [
+    {
+      "source": "zhaopin",
+      "source_url": "https://jobs.zhaopin.com/CZ123456.htm",
+      "title": "Python后端开发工程师",
+      "company": "某科技有限公司",
+      "description": "岗位职责：1. 负责公司核心业务系统的后端开发与维护；2. 参与系统架构设计，编写高质量Python代码；3. 使用Django/Flask框架进行Web应用开发；4. 配合前端完成API接口设计与联调。\n\n任职要求：1. 本科及以上学历，计算机相关专业；2. 3年以上Python开发经验；3. 熟悉MySQL、Redis等数据库；4. 熟悉Linux操作系统；5. 有Docker、Kubernetes经验优先。",
+      "required_skills_raw": ["Python", "Django", "Flask", "MySQL", "Redis", "Linux"],
+      "optional_skills_raw": ["Docker", "Kubernetes"],
+      "salary_range": "15K-25K",
+      "location": "北京",
+      "experience": "3-5年",
+      "education": "本科",
+      "publish_date": "2026-06-20"
+    },
+    {
+      "source": "zhaopin",
+      "source_url": "https://jobs.zhaopin.com/CZ123457.htm",
+      "title": "AI工程师（大模型方向）",
+      "company": "某AI科技公司",
+      "description": "岗位职责：1. 参与大语言模型的训练、微调和部署；2. 设计并实现RAG(检索增强生成)系统；3. 优化模型推理性能；4. 跟踪前沿AI技术并进行技术预研。\n\n任职要求：1. 硕士及以上学历，计算机/AI相关专业；2. 熟悉Transformer架构，有LLM训练/微调经验；3. 掌握PyTorch框架；4. 熟悉LangChain/LlamaIndex等工具链；5. 有实际项目落地经验优先。",
+      "required_skills_raw": ["Python", "PyTorch", "Transformer", "LLM"],
+      "optional_skills_raw": ["LangChain", "LlamaIndex", "RAG", "vLLM"],
+      "salary_range": "30K-50K",
+      "location": "深圳",
+      "experience": "1-3年",
+      "education": "硕士",
+      "publish_date": "2026-06-22"
+    },
+    {
+      "source": "zhaopin",
+      "source_url": "https://jobs.zhaopin.com/CZ123458.htm",
+      "title": "Java开发工程师",
+      "company": "某金融科技公司",
+      "description": "岗位职责：1. 负责金融核心系统的设计与开发；2. 参与微服务架构的演进与优化；3. 编写单元测试与集成测试；4. 参与代码review。\n\n任职要求：1. 本科及以上学历；2. 3年以上Java开发经验；3. 精通Spring Boot/Spring Cloud；4. 熟悉MySQL、MyBatis；5. 了解分布式系统设计。",
+      "required_skills_raw": ["Java", "Spring Boot", "Spring Cloud", "MySQL", "MyBatis"],
+      "optional_skills_raw": ["Redis", "RabbitMQ", "Docker"],
+      "salary_range": "18K-30K",
+      "location": "上海",
+      "experience": "3-5年",
+      "education": "本科",
+      "publish_date": "2026-06-18"
+    }
+  ]
+}

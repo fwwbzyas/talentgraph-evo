@@ -1,0 +1,174 @@
+{
+  "dataset_version": "temporal-jd-100-v1.0",
+  "executed_at": "2026-08-25T10:48:17.976989+00:00",
+  "is_isolated_test": true,
+  "production_database_modified": false,
+  "test_database": "<temporary-directory>/temporal-validation.db",
+  "baseline_count": 100,
+  "observation_count": 1300,
+  "normalization_accepted": 1300,
+  "normalization_rejected": 0,
+  "expected_outcomes": {
+    "new": 100,
+    "unchanged": 948,
+    "updated": 252
+  },
+  "actual_outcomes": {
+    "new": 100,
+    "updated": 252,
+    "unchanged": 948
+  },
+  "outcome_accuracy": 1.0,
+  "changed_field_recall": 1.0,
+  "skill_addition_misses": 0,
+  "skill_removal_misses": 0,
+  "version_count": 352,
+  "expected_changed_periods": [
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12",
+    "2027-01",
+    "2027-02",
+    "2027-03",
+    "2027-04",
+    "2027-05",
+    "2027-06",
+    "2027-07",
+    "2027-08"
+  ],
+  "market_frame_periods": [
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12",
+    "2027-01",
+    "2027-02",
+    "2027-03",
+    "2027-04",
+    "2027-05",
+    "2027-06",
+    "2027-07",
+    "2027-08"
+  ],
+  "market_change_events": 252,
+  "graph_nodes": 4870,
+  "graph_links": 8953,
+  "duration_seconds": 15.202,
+  "monthly_results": [
+    {
+      "period": "2026-08",
+      "new": 100,
+      "updated": 0,
+      "unchanged": 0,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2026-09",
+      "new": 0,
+      "updated": 16,
+      "unchanged": 84,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2026-10",
+      "new": 0,
+      "updated": 24,
+      "unchanged": 76,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2026-11",
+      "new": 0,
+      "updated": 24,
+      "unchanged": 76,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2026-12",
+      "new": 0,
+      "updated": 20,
+      "unchanged": 80,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-01",
+      "new": 0,
+      "updated": 21,
+      "unchanged": 79,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-02",
+      "new": 0,
+      "updated": 24,
+      "unchanged": 76,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-03",
+      "new": 0,
+      "updated": 23,
+      "unchanged": 77,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-04",
+      "new": 0,
+      "updated": 23,
+      "unchanged": 77,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-05",
+      "new": 0,
+      "updated": 14,
+      "unchanged": 86,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-06",
+      "new": 0,
+      "updated": 22,
+      "unchanged": 78,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-07",
+      "new": 0,
+      "updated": 21,
+      "unchanged": 79,
+      "exact_duplicate": 0,
+      "repost": 0
+    },
+    {
+      "period": "2027-08",
+      "new": 0,
+      "updated": 20,
+      "unchanged": 80,
+      "exact_duplicate": 0,
+      "repost": 0
+    }
+  ],
+  "failures": {
+    "normalization_rejections": [],
+    "missing_changed_fields": [],
+    "missing_skill_additions": [],
+    "missing_skill_removals": []
+  },
+  "passed": true,
+  "path_note": "Historical test output; original machine-specific path normalized for source distribution."
+}

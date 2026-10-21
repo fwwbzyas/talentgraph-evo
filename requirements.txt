@@ -1,0 +1,25 @@
+fastapi>=0.136.3,<0.137
+uvicorn[standard]>=0.40.0,<0.41
+pydantic>=2.12.4,<3
+pytest==8.3.4
+pytest-cov==6.0.0
+httpx==0.28.1
+websocket-client==1.9.0
+playwright>=1.48,<2
+lxml>=5.3,<7
+python-multipart>=0.0.20,<0.1
+pypdf>=6.3.0,<7
+PyMuPDF>=1.26.0,<2
+pdfplumber>=0.11.0,<1
+python-dotenv>=1.0.1,<2
+python-docx>=1.2.0,<2
+openpyxl>=3.1.5,<4
+reportlab>=4.4.0,<5
+# Linux CPU wheels for the pinned speech stack. Use Python 3.11 or 3.12.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+torchaudio==2.5.1+cpu
+funasr==1.4.0
+modelscope==1.39.0
+sentencepiece==0.2.0
+pypinyin==0.55.0

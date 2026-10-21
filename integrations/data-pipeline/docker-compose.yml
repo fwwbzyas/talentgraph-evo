@@ -1,0 +1,55 @@
+# ══════════════════════════════════════════════════════════
+# 数据采集与清洗流水线 — Docker Compose 编排
+#
+# 使用:
+#   docker compose up -d postgres      # 启动数据库（可选）
+#   docker compose build pipeline      # 构建采集镜像
+#   docker compose run pipeline        # 运行采集（交互式）
+#   docker compose run pipeline --help # 查看帮助
+#   docker compose down                # 停止所有服务
+# ══════════════════════════════════════════════════════════
+
+services:
+
+  # ── PostgreSQL 数据库（可选）────────────────
+  postgres:
+    image: postgres:16-alpine
+    container_name: pipeline-postgres
+    environment:
+      POSTGRES_DB: job_kg
+      POSTGRES_USER: app
+      POSTGRES_PASSWORD: dev_only_pwd
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U app -d job_kg"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  # ── 数据采集与清洗流水线 ────────────────
+  pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pipeline-worker
+    stdin_open: true    # 支持交互式输入
+    tty: true
+    depends_on:
+      postgres:
+        condition: service_healthy  # 等数据库就绪再启动
+    environment:
+      DB_DSN: "postgresql://app:dev_only_pwd@postgres:5432/job_kg"
+    volumes:
+      # 挂载输出目录到宿主机，方便查看结果
+      - ./output:/app/output
+      # 挂载 Cookie 目录，持久化登录态
+      - ./cookies:/app/cookies
+    # 默认命令: 显示帮助
+    command: ["--help"]
+
+volumes:
+  pgdata:

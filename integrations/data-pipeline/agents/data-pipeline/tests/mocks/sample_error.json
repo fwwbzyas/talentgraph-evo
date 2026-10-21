@@ -1,0 +1,33 @@
+{
+  "description": "异常数据 — 空文本、乱码、异常格式（使用最小有效值）",
+  "data": [
+    {
+      "source": "zhaopin",
+      "source_url": "https://jobs.zhaopin.com/CZ999998.htm",
+      "title": ".",
+      "company": "",
+      "description": ".",
+      "required_skills_raw": [],
+      "optional_skills_raw": [],
+      "salary_range": null,
+      "location": null,
+      "experience": null,
+      "education": null,
+      "publish_date": null
+    },
+    {
+      "source": "zhaopin",
+      "source_url": "https://jobs.zhaopin.com/CZ999999.htm",
+      "title": "???????",
+      "company": "測試公司",
+      "description": "garbled text content that is not readable",
+      "required_skills_raw": [],
+      "optional_skills_raw": [],
+      "salary_range": null,
+      "location": null,
+      "experience": null,
+      "education": null,
+      "publish_date": null
+    }
+  ]
+}

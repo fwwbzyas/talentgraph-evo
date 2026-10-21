@@ -1,0 +1,32 @@
+.rb-spotlight{
+  --mouse-x:50%;
+  --mouse-y:50%;
+  --spotlight-color:rgba(97,221,199,.16);
+  position:relative;
+  overflow:hidden;
+  isolation:isolate
+}
+.rb-spotlight:after{
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  opacity:0;
+  background:radial-gradient(circle 230px at var(--mouse-x) var(--mouse-y),var(--spotlight-color),transparent 76%);
+  transition:opacity .42s ease
+}
+.rb-spotlight:hover:after,.rb-spotlight:focus-visible:after{opacity:1}
+.rb-animated-content{min-width:0}
+.rb-click-spark{position:relative;width:max-content;max-width:100%}
+.rb-click-spark>canvas{
+  position:absolute;
+  inset:-38px;
+  z-index:3;
+  width:calc(100% + 76px);
+  height:calc(100% + 76px);
+  pointer-events:none
+}
+.rb-click-spark>*:not(canvas){position:relative;z-index:2}
+@media(prefers-reduced-motion:reduce){
+  .rb-spotlight:after{display:none}
+}

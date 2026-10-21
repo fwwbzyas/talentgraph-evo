@@ -1,0 +1,1419 @@
+[
+  {
+    "job_id": "zhaopin:CC467650080J40794901802",
+    "updated_at": "2026-07-22T08:09:39.098887+00:00",
+    "payload": {
+      "source_id": "zhaopin:CC467650080J40794901802",
+      "source_type": "jd",
+      "domain": "人工智能",
+      "title": "私有云平台运维中级工程师",
+      "content": "1、学历与经验:1.1、具备大学本科及以上学历;1.2、拥有5年及以上关键业务基础设施(涵盖主流厂商X86服务器集群、企业级存储阵列、数据中心级核心/汇聚/接入交换机、以及大型虚拟化平台如VMware vSphere的高可用性(HA)运维保障及故障根因分析经验。2、硬件架构与维护:​​2.1、精通主流厂商(Dell、HPE、Lenovo)的X86服务器架构(含 BIOS/UEFI, BMC/iDRAC/iLO, RAID/Perc/HBA);2.2、深度掌握主流小型机系统(如 IBM Power Systems)的硬件组件、固件管理及高可靠特性(RAS);2.3、精通企业级存储系统(如 Dell EMC PowerMax/VMAX/PowerStore, HPE Nimble/3PAR, NetApp FAS/AFF;NAS:如 NetApp、深信服的硬件构成,具备热插拔(Hot-Swap)操作、备件更换及固件升级(Firmware Update)的实际操作能力;3、操作系统运维与排障:​​3.1、精通主流服务器操作系统(Windows Server、Red Hat/CentOS/Ubuntu)部署、基线加固、性能调优、高可用配置;3.2、深度掌握系统级故障定位与根因分析,精通系统日志聚合分析、内核级(Kernel)问题诊断、核心转储分析、系统资源瓶颈(CPU/Memory/IO)剖析,具备独立解决GRUB/UEFI引导故障、文件系统(ext4/XFS/NTFS/ReFS/ZFS)修复、服务进程(systemd/Service)异常等复杂问题的能力。4、自动化脚本开发:​​4.1、精通Shell进行运维流程自动化;4.2、熟练运用 Python编程语言开发运维自动化工具、运维数据分析脚本及基础设施监控告警增强处理程序,具备正则表达式(Regex)处理、配置文件(XML/JSON/YAML)解析、多线程并发处理等能力;5、精通各类企业级存储解决方案的规划设计与运维管理:5.1、高端双活/多活存储系统的同步/异步复制、故障切换机制及容灾演练;分布式对象存储的部署、存储桶策略管理、生命周期管理、跨域复制、数据一致性模型;光纤通道存储区域网络架构设计与运维(FC-SAN),深度理解多路径冗余(MPIO/ALUA)、Zoning、LUN Masking、快照(Snapshot)管理、克隆、数据消冗(Deduplication)与压缩(Compression)等关键技术;5.2、具备存储性能监控(IOPS, Throughput, Latency)、容量规划(Capacity Planning)及存储网络故障隔离与处理能力。6、网络虚拟化与安全隔离:​​6.1、精通基于VMware NSX的软件定义网络(SDN)与网络功能虚拟化(NFV)解决方案;6.2、深度掌握 NSX-T Data Center(或NSX-V) 的逻辑交换(Logical Switching)、逻辑路由(Logical Routing)、分布式防火墙(Distributed Firewall - DFW)策略配置管理;6.3、精通网络微分段(Micro-segmentation)技术的实施,实现基于工作负载(Workload)的精细安全隔离与零信任(Zero Trust)网络架构部署。7、网络架构与故障诊断:​​7.1、精通TCP/IP 协议栈、OSI 七层模型及 ​HTTP(S)/DNS/DHCP/FTP​ 等应用层协议;7.2、精通网络报文捕获与分析,具备网络流量分析、连接状态跟踪、延时抖动定位、丢包诊断能力;7.3、独立完成二、三层网络(VLAN, STP/RSTP/MSTP, LACP、静态路由、OSPF, BGP)的部署、配置与管理;7.4、精通负载均衡设备(如 F5、HAProxy、Nginx)的配置调优、VIP管理、健康检查、会话保持及七层内容交换策略;7.5、具备设计并实施高可用(HA)、可扩展(Scalable)、冗余性强的数据中心网络架构的能力。8、虚拟化平台部署与优化:​​8.1、精通VMware vSphere(ESXi、vCenter Server)大规模部署、集群配置(DRS, HA, vSAN)、资源池管理(Resource Pool)、虚拟交换机(vSwitch/vDS)配置、虚拟机(VM)生命周期管理;8.2、深度掌握 VMware NSX与 vSphere 环境的集成部署与联合排障;8.3、独立完成基于业务需求的主机计算资源(vCPU/RAM)规划、虚拟磁盘选型、虚拟网络(IP地址段规划、VLAN分配)设计及访问控制策略(Firewall Rules, Service Composer)制定;8.4、精通平台性能监控(vRealize Operations Manager)、容量优化、资源调度策略调优(DRS Affinity/Anti-Affinity Rules, Shares/Reservations/Limits)及高级故障排除(Log Insight, esxtop/Resxtop)。9、负责落实上级领导交办的临时性工作。",
+      "raw_content": "1、学历与经验：1.1、具备大学本科及以上学历；1.2、拥有5年及以上关键业务基础设施（涵盖主流厂商X86服务器集群、企业级存储阵列、数据中心级核心/汇聚/接入交换机、以及大型虚拟化平台如VMware vSphere的高可用性（HA）运维保障及故障根因分析经验。2、硬件架构与维护：​​2.1、精通主流厂商（Dell、HPE、Lenovo）的X86服务器架构（含 BIOS/UEFI, BMC/iDRAC/iLO, RAID/Perc/HBA）；2.2、深度掌握主流小型机系统（如 IBM Power Systems）的硬件组件、固件管理及高可靠特性（RAS）；2.3、精通企业级存储系统（如 Dell EMC PowerMax/VMAX/PowerStore, HPE Nimble/3PAR, NetApp FAS/AFF；NAS：如 NetApp、深信服的硬件构成，具备热插拔（Hot-Swap）操作、备件更换及固件升级（Firmware Update）的实际操作能力；3、操作系统运维与排障：​​3.1、精通主流服务器操作系统（Windows Server、Red Hat/CentOS/Ubuntu）部署、基线加固、性能调优、高可用配置；3.2、深度掌握系统级故障定位与根因分析，精通系统日志聚合分析、内核级（Kernel）问题诊断、核心转储分析、系统资源瓶颈（CPU/Memory/IO）剖析，具备独立解决GRUB/UEFI引导故障、文件系统（ext4/XFS/NTFS/ReFS/ZFS）修复、服务进程（systemd/Service）异常等复杂问题的能力。4、自动化脚本开发：​​4.1、精通Shell进行运维流程自动化；4.2、熟练运用 Python编程语言开发运维自动化工具、运维数据分析脚本及基础设施监控告警增强处理程序，具备正则表达式（Regex）处理、配置文件（XML/JSON/YAML）解析、多线程并发处理等能力；5、精通各类企业级存储解决方案的规划设计与运维管理：5.1、高端双活/多活存储系统的同步/异步复制、故障切换机制及容灾演练；分布式对象存储的部署、存储桶策略管理、生命周期管理、跨域复制、数据一致性模型；光纤通道存储区域网络架构设计与运维（FC-SAN），深度理解多路径冗余（MPIO/ALUA）、Zoning、LUN Masking、快照（Snapshot）管理、克隆、数据消冗（Deduplication）与压缩（Compression）等关键技术；5.2、具备存储性能监控（IOPS, Throughput, Latency）、容量规划（Capacity Planning）及存储网络故障隔离与处理能力。6、网络虚拟化与安全隔离：​​6.1、精通基于VMware NSX的软件定义网络（SDN）与网络功能虚拟化（NFV）解决方案；6.2、深度掌握 NSX-T Data Center（或NSX-V) 的逻辑交换（Logical Switching）、逻辑路由（Logical Routing）、分布式防火墙（Distributed Firewall - DFW）策略配置管理；6.3、精通网络微分段（Micro-segmentation）技术的实施，实现基于工作负载（Workload）的精细安全隔离与零信任（Zero Trust）网络架构部署。7、网络架构与故障诊断：​​7.1、精通TCP/IP 协议栈、OSI 七层模型及 ​HTTP(S)/DNS/DHCP/FTP​ 等应用层协议；7.2、精通网络报文捕获与分析，具备网络流量分析、连接状态跟踪、延时抖动定位、丢包诊断能力；7.3、独立完成二、三层网络（VLAN, STP/RSTP/MSTP, LACP、静态路由、OSPF, BGP）的部署、配置与管理；7.4、精通负载均衡设备（如 F5、HAProxy、Nginx）的配置调优、VIP管理、健康检查、会话保持及七层内容交换策略；7.5、具备设计并实施高可用（HA）、可扩展（Scalable）、冗余性强的数据中心网络架构的能力。8、虚拟化平台部署与优化：​​8.1、精通VMware vSphere（ESXi、vCenter Server）大规模部署、集群配置（DRS, HA, vSAN）、资源池管理（Resource Pool）、虚拟交换机（vSwitch/vDS）配置、虚拟机（VM）生命周期管理；8.2、深度掌握 VMware NSX与 vSphere 环境的集成部署与联合排障；8.3、独立完成基于业务需求的主机计算资源（vCPU/RAM）规划、虚拟磁盘选型、虚拟网络（IP地址段规划、VLAN分配）设计及访问控制策略（Firewall Rules, Service Composer）制定；8.4、精通平台性能监控（vRealize Operations Manager）、容量优化、资源调度策略调优（DRS Affinity/Anti-Affinity Rules, Shares/Reservations/Limits）及高级故障排除（Log Insight, esxtop/Resxtop）。9、负责落实上级领导交办的临时性工作。",
+      "collected_at": "2026-07-22T08:09:39.053948Z",
+      "quality_score": 100.0,
+      "dedup_hash": "f111edeeb63dedc7286a3e95",
+      "metadata": {
+        "browser_assisted": true,
+        "research_collection": true,
+        "team_pipeline_adapter": true,
+        "cdp_session": true,
+        "query": "固件工程师",
+        "search_city": "长沙",
+        "search_page": 32,
+        "salary_raw": "1-2万",
+        "identity_hash": "3c89e0d0d86843d33293683c",
+        "quality_issues": [],
+        "raw_domain": null,
+        "collection_mode": "live",
+        "evidence_role": "primary",
+        "salary_period": null,
+        "remote": false,
+        "content_char_count": 2153,
+        "content_sha256": "e3c0422359c6c26b66845e4e1d461ea8045f0fb0b3854dc3eaa3dcd7d3eca392",
+        "section_counts": {
+          "responsibilities": 12,
+          "requirements": 16,
+          "evidence_segments": 36
+        }
+      },
+      "source_category": "recruitment",
+      "company": "河北纵横集团丰南钢铁有限公司",
+      "company_industry": null,
+      "company_size": null,
+      "salary_min_k": 1,
+      "salary_max_k": 2,
+      "salary_months": 12,
+      "currency": "CNY",
+      "city": "唐山",
+      "district": "丰南区",
+      "experience_min_years": null,
+      "experience_max_years": null,
+      "education": "本科",
+      "employment_type": "full_time",
+      "skill_tags": [
+        "Python",
+        "Linux",
+        "Shell",
+        "TCP/IP",
+        "OTA",
+        "系统运维\n网络运维",
+        "大专",
+        "AGV设备运维",
+        "PLC编程",
+        "工业通信协议",
+        "系统运维",
+        "网络运维",
+        "人工智能",
+        "工业自动化/机器人",
+        "3-5年",
+        "虚拟化运维",
+        "Vmware",
+        "POWERCLI",
+        "POWERSHELL",
+        "熟悉主流品牌服务器的硬件架构",
+        "FC-SAN / ISCSI",
+        "软件/IT服务",
+        "计算机硬件",
+        "健康检查"
+      ],
+      "responsibilities": [
+        "2、拥有5年及以上关键业务基础设施(涵盖主流厂商X86服务器集群、企业级存储阵列、数据中心级核心/汇聚/接入交换机、以及大型虚拟化平台如VMware vSphere的高可用性(HA)运维保障及故障根因分析经验",
+        "2、硬件架构与维护:​​",
+        "2、深度掌握系统级故障定位与根因分析,精通系统日志聚合分析、内核级(Kernel)问题诊断、核心转储分析、系统资源瓶颈(CPU/Memory/IO)剖析,具备独立解决GRUB/UEFI引导故障、文件系统(ext4/XFS/NTFS/ReFS/ZFS)修复、服务进程(systemd/Service)异常等复杂问题的能力",
+        "4、自动化脚本开发:​​",
+        "2、熟练运用 Python编程语言开发运维自动化工具、运维数据分析脚本及基础设施监控告警增强处理程序,具备正则表达式(Regex)处理、配置文件(XML/JSON/YAML)解析、多线程并发处理等能力",
+        "5、精通各类企业级存储解决方案的规划设计与运维管理:",
+        "光纤通道存储区域网络架构设计与运维(FC-SAN),深度理解多路径冗余(MPIO/ALUA)、Zoning、LUN Masking、快照(Snapshot)管理、克隆、数据消冗(Deduplication)与压缩(Compression)等关键技术",
+        "3、精通网络微分段(Micro-segmentation)技术的实施,实现基于工作负载(Workload)的精细安全隔离与零信任(Zero Trust)网络架构部署",
+        "2、精通网络报文捕获与分析,具备网络流量分析、连接状态跟踪、延时抖动定位、丢包诊断能力",
+        "5、具备设计并实施高可用(HA)、可扩展(Scalable)、冗余性强的数据中心网络架构的能力",
+        "8、虚拟化平台部署与优化:​​",
+        "3、独立完成基于业务需求的主机计算资源(vCPU/RAM)规划、虚拟磁盘选型、虚拟网络(IP地址段规划、VLAN分配)设计及访问控制策略(Firewall Rules, Service Composer)制定"
+      ],
+      "requirements": [
+        "1、学历与经验:",
+        "1、具备大学本科及以上学历",
+        "2、拥有5年及以上关键业务基础设施(涵盖主流厂商X86服务器集群、企业级存储阵列、数据中心级核心/汇聚/接入交换机、以及大型虚拟化平台如VMware vSphere的高可用性(HA)运维保障及故障根因分析经验",
+        "1、精通主流厂商(Dell、HPE、Lenovo)的X86服务器架构(含 BIOS/UEFI, BMC/iDRAC/iLO, RAID/Perc/HBA)",
+        "2、深度掌握主流小型机系统(如 IBM Power Systems)的硬件组件、固件管理及高可靠特性(RAS)",
+        "3、精通企业级存储系统(如 Dell EMC PowerMax/VMAX/PowerStore, HPE Nimble/3PAR, NetApp FAS/AFF",
+        "NAS:如 NetApp、深信服的硬件构成,具备热插拔(Hot-Swap)操作、备件更换及固件升级(Firmware Update)的实际操作能力",
+        "1、精通主流服务器操作系统(Windows Server、Red Hat/CentOS/Ubuntu)部署、基线加固、性能调优、高可用配置",
+        "2、深度掌握系统级故障定位与根因分析,精通系统日志聚合分析、内核级(Kernel)问题诊断、核心转储分析、系统资源瓶颈(CPU/Memory/IO)剖析,具备独立解决GRUB/UEFI引导故障、文件系统(ext4/XFS/NTFS/ReFS/ZFS)修复、服务进程(systemd/Service)异常等复杂问题的能力",
+        "1、精通Shell进行运维流程自动化",
+        "2、熟练运用 Python编程语言开发运维自动化工具、运维数据分析脚本及基础设施监控告警增强处理程序,具备正则表达式(Regex)处理、配置文件(XML/JSON/YAML)解析、多线程并发处理等能力",
+        "5、精通各类企业级存储解决方案的规划设计与运维管理:",
+        "2、具备存储性能监控(IOPS, Throughput, Latency)、容量规划(Capacity Planning)及存储网络故障隔离与处理能力",
+        "1、精通基于VMware NSX的软件定义网络(SDN)与网络功能虚拟化(NFV)解决方案",
+        "2、深度掌握 NSX-T Data Center(或NSX-V) 的逻辑交换(Logical Switching)、逻辑路由(Logical Routing)、分布式防火墙(Distributed Firewall - DFW)策略配置管理",
+        "3、精通网络微分段(Micro-segmentation)技术的实施,实现基于工作负载(Workload)的精细安全隔离与零信任(Zero Trust)网络架构部署"
+      ],
+      "evidence_segments": [
+        {
+          "segment_id": "seg_001",
+          "section": "responsibilities",
+          "text": "1、学历与经验:",
+          "start": 0,
+          "end": 8,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_002",
+          "section": "responsibilities",
+          "text": "1、具备大学本科及以上学历",
+          "start": 10,
+          "end": 23,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_003",
+          "section": "responsibilities",
+          "text": "2、拥有5年及以上关键业务基础设施(涵盖主流厂商X86服务器集群、企业级存储阵列、数据中心级核心/汇聚/接入交换机、以及大型虚拟化平台如VMware vSphere的高可用性(HA)运维保障及故障根因分析经验",
+          "start": 26,
+          "end": 130,
+          "skills": [
+            "Vmware"
+          ]
+        },
+        {
+          "segment_id": "seg_004",
+          "section": "responsibilities",
+          "text": "2、硬件架构与维护:​​",
+          "start": 131,
+          "end": 143,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_005",
+          "section": "responsibilities",
+          "text": "1、精通主流厂商(Dell、HPE、Lenovo)的X86服务器架构(含 BIOS/UEFI, BMC/iDRAC/iLO, RAID/Perc/HBA)",
+          "start": 145,
+          "end": 222,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_006",
+          "section": "responsibilities",
+          "text": "2、深度掌握主流小型机系统(如 IBM Power Systems)的硬件组件、固件管理及高可靠特性(RAS)",
+          "start": 225,
+          "end": 280,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_007",
+          "section": "responsibilities",
+          "text": "3、精通企业级存储系统(如 Dell EMC PowerMax/VMAX/PowerStore, HPE Nimble/3PAR, NetApp FAS/AFF",
+          "start": 283,
+          "end": 363,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_008",
+          "section": "responsibilities",
+          "text": "NAS:如 NetApp、深信服的硬件构成,具备热插拔(Hot-Swap)操作、备件更换及固件升级(Firmware Update)的实际操作能力",
+          "start": 364,
+          "end": 437,
+          "skills": [
+            "OTA"
+          ]
+        },
+        {
+          "segment_id": "seg_009",
+          "section": "responsibilities",
+          "text": "3、操作系统运维与排障:​​",
+          "start": 438,
+          "end": 452,
+          "skills": [
+            "系统运维"
+          ]
+        },
+        {
+          "segment_id": "seg_010",
+          "section": "responsibilities",
+          "text": "1、精通主流服务器操作系统(Windows Server、Red Hat/CentOS/Ubuntu)部署、基线加固、性能调优、高可用配置",
+          "start": 454,
+          "end": 523,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_011",
+          "section": "responsibilities",
+          "text": "2、深度掌握系统级故障定位与根因分析,精通系统日志聚合分析、内核级(Kernel)问题诊断、核心转储分析、系统资源瓶颈(CPU/Memory/IO)剖析,具备独立解决GRUB/UEFI引导故障、文件系统(ext4/XFS/NTFS/ReFS/ZFS)修复、服务进程(systemd/Service)异常等复杂问题的能力",
+          "start": 526,
+          "end": 685,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_012",
+          "section": "responsibilities",
+          "text": "4、自动化脚本开发:​​",
+          "start": 686,
+          "end": 698,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_013",
+          "section": "responsibilities",
+          "text": "1、精通Shell进行运维流程自动化",
+          "start": 700,
+          "end": 718,
+          "skills": [
+            "Shell"
+          ]
+        },
+        {
+          "segment_id": "seg_014",
+          "section": "responsibilities",
+          "text": "2、熟练运用 Python编程语言开发运维自动化工具、运维数据分析脚本及基础设施监控告警增强处理程序,具备正则表达式(Regex)处理、配置文件(XML/JSON/YAML)解析、多线程并发处理等能力",
+          "start": 721,
+          "end": 821,
+          "skills": [
+            "Python"
+          ]
+        },
+        {
+          "segment_id": "seg_015",
+          "section": "responsibilities",
+          "text": "5、精通各类企业级存储解决方案的规划设计与运维管理:",
+          "start": 822,
+          "end": 848,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_016",
+          "section": "responsibilities",
+          "text": "1、高端双活/多活存储系统的同步/异步复制、故障切换机制及容灾演练",
+          "start": 850,
+          "end": 883,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_017",
+          "section": "responsibilities",
+          "text": "分布式对象存储的部署、存储桶策略管理、生命周期管理、跨域复制、数据一致性模型",
+          "start": 884,
+          "end": 922,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_018",
+          "section": "responsibilities",
+          "text": "光纤通道存储区域网络架构设计与运维(FC-SAN),深度理解多路径冗余(MPIO/ALUA)、Zoning、LUN Masking、快照(Snapshot)管理、克隆、数据消冗(Deduplication)与压缩(Compression)等关键技术",
+          "start": 923,
+          "end": 1047,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_019",
+          "section": "responsibilities",
+          "text": "2、具备存储性能监控(IOPS, Throughput, Latency)、容量规划(Capacity Planning)及存储网络故障隔离与处理能力",
+          "start": 1050,
+          "end": 1125,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_020",
+          "section": "responsibilities",
+          "text": "6、网络虚拟化与安全隔离:​​",
+          "start": 1126,
+          "end": 1141,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_021",
+          "section": "responsibilities",
+          "text": "1、精通基于VMware NSX的软件定义网络(SDN)与网络功能虚拟化(NFV)解决方案",
+          "start": 1143,
+          "end": 1188,
+          "skills": [
+            "Vmware"
+          ]
+        },
+        {
+          "segment_id": "seg_022",
+          "section": "responsibilities",
+          "text": "2、深度掌握 NSX-T Data Center(或NSX-V) 的逻辑交换(Logical Switching)、逻辑路由(Logical Routing)、分布式防火墙(Distributed Firewall - DFW)策略配置管理",
+          "start": 1191,
+          "end": 1311,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_023",
+          "section": "responsibilities",
+          "text": "3、精通网络微分段(Micro-segmentation)技术的实施,实现基于工作负载(Workload)的精细安全隔离与零信任(Zero Trust)网络架构部署",
+          "start": 1314,
+          "end": 1396,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_024",
+          "section": "responsibilities",
+          "text": "7、网络架构与故障诊断:​​",
+          "start": 1397,
+          "end": 1411,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_025",
+          "section": "responsibilities",
+          "text": "1、精通TCP/IP 协议栈、OSI 七层模型及 ​HTTP(S)/DNS/DHCP/FTP​ 等应用层协议",
+          "start": 1413,
+          "end": 1467,
+          "skills": [
+            "TCP/IP"
+          ]
+        },
+        {
+          "segment_id": "seg_026",
+          "section": "responsibilities",
+          "text": "2、精通网络报文捕获与分析,具备网络流量分析、连接状态跟踪、延时抖动定位、丢包诊断能力",
+          "start": 1470,
+          "end": 1513,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_027",
+          "section": "responsibilities",
+          "text": "二、三层网络(VLAN, STP/RSTP/MSTP, LACP、静态路由、OSPF, BGP)的部署、配置与管理",
+          "start": 1522,
+          "end": 1579,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_028",
+          "section": "responsibilities",
+          "text": "4、精通负载均衡设备(如 F",
+          "start": 1582,
+          "end": 1596,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_029",
+          "section": "responsibilities",
+          "text": "5、HAProxy、Nginx)的配置调优、VIP管理、健康检查、会话保持及七层内容交换策略",
+          "start": 1596,
+          "end": 1642,
+          "skills": [
+            "健康检查"
+          ]
+        },
+        {
+          "segment_id": "seg_030",
+          "section": "responsibilities",
+          "text": "5、具备设计并实施高可用(HA)、可扩展(Scalable)、冗余性强的数据中心网络架构的能力",
+          "start": 1645,
+          "end": 1692,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_031",
+          "section": "responsibilities",
+          "text": "8、虚拟化平台部署与优化:​​",
+          "start": 1693,
+          "end": 1708,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_032",
+          "section": "responsibilities",
+          "text": "1、精通VMware vSphere(ESXi、vCenter Server)大规模部署、集群配置(DRS, HA, vSAN)、资源池管理(Resource Pool)、虚拟交换机(vSwitch/vDS)配置、虚拟机(VM)生命周期管理",
+          "start": 1710,
+          "end": 1830,
+          "skills": [
+            "Vmware"
+          ]
+        },
+        {
+          "segment_id": "seg_033",
+          "section": "responsibilities",
+          "text": "2、深度掌握 VMware NSX与 vSphere 环境的集成部署与联合排障",
+          "start": 1833,
+          "end": 1872,
+          "skills": [
+            "Vmware"
+          ]
+        },
+        {
+          "segment_id": "seg_034",
+          "section": "responsibilities",
+          "text": "3、独立完成基于业务需求的主机计算资源(vCPU/RAM)规划、虚拟磁盘选型、虚拟网络(IP地址段规划、VLAN分配)设计及访问控制策略(Firewall Rules, Service Composer)制定",
+          "start": 1875,
+          "end": 1979,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_035",
+          "section": "responsibilities",
+          "text": "4、精通平台性能监控(vRealize Operations Manager)、容量优化、资源调度策略调优(DRS Affinity/Anti-Affinity Rules, Shares/Reservations/Limits)及高级故障排除(Log Insight, esxtop/Resxtop)",
+          "start": 1982,
+          "end": 2133,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_036",
+          "section": "responsibilities",
+          "text": "9、负责落实上级领导交办的临时性工作",
+          "start": 2134,
+          "end": 2152,
+          "skills": []
+        }
+      ],
+      "benefits": [],
+      "published_at": "2026-07-22T08:09:10.004210Z",
+      "changed_at": "2026-07-22T08:09:39.057585Z",
+      "source_platform": "zhaopin",
+      "source_url": "https://www.zhaopin.com/jobdetail/CC467650080J40794901802.htm",
+      "job_status": "active",
+      "change_type": "new"
+    }
+  },
+  {
+    "job_id": "zhaopin:CCL1303156430J41009078204",
+    "updated_at": "2026-07-22T08:09:39.067010+00:00",
+    "payload": {
+      "source_id": "zhaopin:CCL1303156430J41009078204",
+      "source_type": "jd",
+      "domain": "物联网",
+      "title": "光模块研发工程师",
+      "content": "任职要求: 1. 硬件设计 扎实模拟 / 数字电路基础,精通高速数字电路设计。 熟练PCB 设计工具(Altium Designer、Cadence、Protel),掌握高速 Layout、阻抗控制、EMC/EMI设计。 熟悉光模块架构(TOSA/ROSA/BOSA、Driver/TIA、DSP、MCU、电源管理)。 2. 仿真与测试 SI/PI 仿真:熟练ADS、HFSS、SIwave,能做高速信号完整性与电源完整性仿真。 光学仿真:掌握Zemax、OptiSystem、Lumerical,能做光路设计、耦合效率分析。 测试仪器:熟练高速示波器、误码仪(BERT)、光谱分析仪、网络分析仪、光功率计,能测眼图、TDECQ、BER、消光比等指标。 3. 光器件与标准 熟悉光器件(激光器、探测器、TOSA/ROSA、光耦合器、隔离器)原理、选型与测试。 掌握行业标准:IEEE 802.3、CMIS、MSA(QSFP-DD/OSFP)、OIF-CEI。 了解热设计、可靠性(高低温、湿热、振动、ESD)与失效分析方法。 4. 软件与脚本 会Python/C++,用于自动化测试、数据处理、脚本开发。 熟悉I2C/SPI/MDIO等通信协议,能做模块固件 / 寄存器配置与调试。 5、综合能力 英语:熟练阅读英文 Datasheet、标准文档,具备技术沟通能力。 问题解决:独立样机调试、故障定位、失效分析,推动量产良率提升。 文档与协作:撰写设计 / 测试 / 量产文档,跨部门(器件、结构、固件、测试、供应链)协作。 学习与创新:跟踪800G/1.6T、硅光、CPO、LPO等前沿技术,参与预研与专利布局。 优先条件 1、3 年以上高速光模块研发经验,掌握高速电路与 PCB 设计、SI/PI 仿真、光器件与测试仪器,熟悉400G/800G 技术与 MSA 标准,具备量产与故障分析能力。 2、主导过400G/800G/1.6T(OSFP/QSFP-DD)量产项目,有LPO/CPO/ 硅光预研经验优先; 3、有COB/BOX 封装、光学耦合、高速 DSP/CDR、PAM4调制应用经验优先; 基本要求: 1、本科及以上(80% 岗位要求),硕士优先。 2、电子信息工程、通信工程、光电信息科学与工程、光学工程、微电子、射频 / 微波等相关专业",
+      "raw_content": "任职要求： 1. 硬件设计   扎实模拟 / 数字电路基础，精通高速数字电路设计。  熟练PCB 设计工具（Altium Designer、Cadence、Protel），掌握高速 Layout、阻抗控制、EMC/EMI设计。  熟悉光模块架构（TOSA/ROSA/BOSA、Driver/TIA、DSP、MCU、电源管理）。 2. 仿真与测试   SI/PI 仿真：熟练ADS、HFSS、SIwave，能做高速信号完整性与电源完整性仿真。  光学仿真：掌握Zemax、OptiSystem、Lumerical，能做光路设计、耦合效率分析。  测试仪器：熟练高速示波器、误码仪（BERT）、光谱分析仪、网络分析仪、光功率计，能测眼图、TDECQ、BER、消光比等指标。 3. 光器件与标准   熟悉光器件（激光器、探测器、TOSA/ROSA、光耦合器、隔离器）原理、选型与测试。  掌握行业标准：IEEE 802.3、CMIS、MSA（QSFP-DD/OSFP）、OIF-CEI。  了解热设计、可靠性（高低温、湿热、振动、ESD）与失效分析方法。 4. 软件与脚本   会Python/C++，用于自动化测试、数据处理、脚本开发。  熟悉I2C/SPI/MDIO等通信协议，能做模块固件 / 寄存器配置与调试。 5、综合能力   英语：熟练阅读英文 Datasheet、标准文档，具备技术沟通能力。  问题解决：独立样机调试、故障定位、失效分析，推动量产良率提升。  文档与协作：撰写设计 / 测试 / 量产文档，跨部门（器件、结构、固件、测试、供应链）协作。  学习与创新：跟踪800G/1.6T、硅光、CPO、LPO等前沿技术，参与预研与专利布局。      优先条件       1、3 年以上高速光模块研发经验，掌握高速电路与 PCB 设计、SI/PI 仿真、光器件与测试仪器，熟悉400G/800G 技术与 MSA 标准，具备量产与故障分析能力。      2、主导过400G/800G/1.6T（OSFP/QSFP-DD）量产项目，有LPO/CPO/ 硅光预研经验优先；    3、有COB/BOX 封装、光学耦合、高速 DSP/CDR、PAM4调制应用经验优先；        基本要求：    1、本科及以上（80% 岗位要求），硕士优先。    2、电子信息工程、通信工程、光电信息科学与工程、光学工程、微电子、射频 / 微波等相关专业",
+      "collected_at": "2026-07-22T08:09:39.047418Z",
+      "quality_score": 90.0,
+      "dedup_hash": "ba84655ab98075bcc8971c20",
+      "metadata": {
+        "browser_assisted": true,
+        "research_collection": true,
+        "team_pipeline_adapter": true,
+        "cdp_session": true,
+        "query": "固件工程师",
+        "search_city": "长沙",
+        "search_page": 32,
+        "salary_raw": "6000-12000元",
+        "identity_hash": "5ba40390a5b2c16534c7825f",
+        "quality_issues": [
+          "missing_responsibilities"
+        ],
+        "raw_domain": null,
+        "collection_mode": "live",
+        "evidence_role": "primary",
+        "salary_period": null,
+        "remote": false,
+        "content_char_count": 976,
+        "content_sha256": "d08a0d05a4fe10c210b13e5868b06bb48466eaf8ab42cc9815b706724487249f",
+        "section_counts": {
+          "responsibilities": 0,
+          "requirements": 14,
+          "evidence_segments": 24
+        }
+      },
+      "source_category": "recruitment",
+      "company": "芯峰光电技术(深圳)有限公司",
+      "company_industry": null,
+      "company_size": null,
+      "salary_min_k": 6,
+      "salary_max_k": 12,
+      "salary_months": 12,
+      "currency": "CNY",
+      "city": "深圳",
+      "district": "南山",
+      "experience_min_years": null,
+      "experience_max_years": null,
+      "education": "本科",
+      "employment_type": "full_time",
+      "skill_tags": [
+        "Python",
+        "C++",
+        "自动化测试",
+        "研发\n硬件研发\n软件研发\n光模块\n激光器",
+        "本科",
+        "3-5年",
+        "镜头",
+        "镜头模组设计",
+        "量产项目推进",
+        "研发",
+        "测试",
+        "激光器",
+        "光学仪器",
+        "系统设计",
+        "硕士",
+        "高次谐波",
+        "光学",
+        "仿真设计",
+        "大专",
+        "光模块",
+        "光学测试",
+        "光镜",
+        "Zemax",
+        "固体激光器"
+      ],
+      "responsibilities": [],
+      "requirements": [
+        "1. 硬件设计 扎实模拟 / 数字电路基础,精通高速数字电路设计",
+        "熟练PCB 设计工具(Altium Designer、Cadence、Protel),掌握高速 Layout、阻抗控制、EMC/EMI设计",
+        "熟悉光模块架构(TOSA/ROSA/BOSA、Driver/TIA、DSP、MCU、电源管理)",
+        "光学仿真:掌握Zemax、OptiSystem、Lumerical,能做光路设计、耦合效率分析",
+        "3. 光器件与标准 熟悉光器件(激光器、探测器、TOSA/ROSA、光耦合器、隔离器)原理、选型与测试",
+        "掌握行业标准:IEEE",
+        "了解热设计、可靠性(高低温、湿热、振动、ESD)与失效分析方法",
+        "熟悉I2C/SPI/MDIO等通信协议,能做模块固件 / 寄存器配置与调试",
+        "5、综合能力 英语:熟练阅读英文 Datasheet、标准文档,具备技术沟通能力",
+        "1、3 年以上高速光模块研发经验,掌握高速电路与 PCB 设计、SI/PI 仿真、光器件与测试仪器,熟悉400G/800G 技术与 MSA 标准,具备量产与故障分析能力",
+        "1.6T(OSFP/QSFP-DD)量产项目,有LPO/CPO/ 硅光预研经验优先",
+        "3、有COB/BOX 封装、光学耦合、高速 DSP/CDR、PAM4调制应用经验优先",
+        "岗位要求),硕士优先",
+        "2、电子信息工程、通信工程、光电信息科学与工程、光学工程、微电子、射频 / 微波等相关专业"
+      ],
+      "evidence_segments": [
+        {
+          "segment_id": "seg_001",
+          "section": "requirements",
+          "text": "1. 硬件设计 扎实模拟 / 数字电路基础,精通高速数字电路设计",
+          "start": 6,
+          "end": 38,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_002",
+          "section": "requirements",
+          "text": "熟练PCB 设计工具(Altium Designer、Cadence、Protel),掌握高速 Layout、阻抗控制、EMC/EMI设计",
+          "start": 40,
+          "end": 109,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_003",
+          "section": "requirements",
+          "text": "熟悉光模块架构(TOSA/ROSA/BOSA、Driver/TIA、DSP、MCU、电源管理)",
+          "start": 111,
+          "end": 158,
+          "skills": [
+            "光模块"
+          ]
+        },
+        {
+          "segment_id": "seg_004",
+          "section": "requirements",
+          "text": "2. 仿真与测试 SI/PI 仿真:熟练ADS、HFSS、SIwave,能做高速信号完整性与电源完整性仿真",
+          "start": 160,
+          "end": 213,
+          "skills": [
+            "测试"
+          ]
+        },
+        {
+          "segment_id": "seg_005",
+          "section": "requirements",
+          "text": "光学仿真:掌握Zemax、OptiSystem、Lumerical,能做光路设计、耦合效率分析",
+          "start": 215,
+          "end": 262,
+          "skills": [
+            "光学",
+            "Zemax"
+          ]
+        },
+        {
+          "segment_id": "seg_006",
+          "section": "requirements",
+          "text": "测试仪器:熟练高速示波器、误码仪(BERT)、光谱分析仪、网络分析仪、光功率计,能测眼图、TDECQ、BER、消光比等指标",
+          "start": 264,
+          "end": 325,
+          "skills": [
+            "测试"
+          ]
+        },
+        {
+          "segment_id": "seg_007",
+          "section": "requirements",
+          "text": "3. 光器件与标准 熟悉光器件(激光器、探测器、TOSA/ROSA、光耦合器、隔离器)原理、选型与测试",
+          "start": 327,
+          "end": 378,
+          "skills": [
+            "测试",
+            "激光器"
+          ]
+        },
+        {
+          "segment_id": "seg_008",
+          "section": "requirements",
+          "text": "掌握行业标准:IEEE",
+          "start": 380,
+          "end": 391,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_009",
+          "section": "requirements",
+          "text": "3、CMIS、MSA(QSFP-DD/OSFP)、OIF-CEI",
+          "start": 396,
+          "end": 428,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_010",
+          "section": "requirements",
+          "text": "了解热设计、可靠性(高低温、湿热、振动、ESD)与失效分析方法",
+          "start": 430,
+          "end": 461,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_011",
+          "section": "requirements",
+          "text": "4. 软件与脚本 会Python/C++,用于自动化测试、数据处理、脚本开发",
+          "start": 463,
+          "end": 501,
+          "skills": [
+            "Python",
+            "C++",
+            "自动化测试",
+            "测试"
+          ]
+        },
+        {
+          "segment_id": "seg_012",
+          "section": "requirements",
+          "text": "熟悉I2C/SPI/MDIO等通信协议,能做模块固件 / 寄存器配置与调试",
+          "start": 503,
+          "end": 540,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_013",
+          "section": "requirements",
+          "text": "5、综合能力 英语:熟练阅读英文 Datasheet、标准文档,具备技术沟通能力",
+          "start": 542,
+          "end": 582,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_014",
+          "section": "requirements",
+          "text": "问题解决:独立样机调试、故障定位、失效分析,推动量产良率提升",
+          "start": 584,
+          "end": 614,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_015",
+          "section": "requirements",
+          "text": "文档与协作:撰写设计 / 测试 / 量产文档,跨部门(器件、结构、固件、测试、供应链)协作",
+          "start": 616,
+          "end": 661,
+          "skills": [
+            "测试"
+          ]
+        },
+        {
+          "segment_id": "seg_016",
+          "section": "requirements",
+          "text": "学习与创新:跟踪800G/",
+          "start": 663,
+          "end": 676,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_017",
+          "section": "requirements",
+          "text": "1.6T、硅光、CPO、LPO等前沿技术,参与预研与专利布局",
+          "start": 676,
+          "end": 706,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_018",
+          "section": "requirements",
+          "text": "1、3 年以上高速光模块研发经验,掌握高速电路与 PCB 设计、SI/PI 仿真、光器件与测试仪器,熟悉400G/800G 技术与 MSA 标准,具备量产与故障分析能力",
+          "start": 713,
+          "end": 797,
+          "skills": [
+            "研发",
+            "测试",
+            "光模块"
+          ]
+        },
+        {
+          "segment_id": "seg_019",
+          "section": "requirements",
+          "text": "2、主导过400G/800G/",
+          "start": 799,
+          "end": 814,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_020",
+          "section": "requirements",
+          "text": "1.6T(OSFP/QSFP-DD)量产项目,有LPO/CPO/ 硅光预研经验优先",
+          "start": 814,
+          "end": 855,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_021",
+          "section": "requirements",
+          "text": "3、有COB/BOX 封装、光学耦合、高速 DSP/CDR、PAM4调制应用经验优先",
+          "start": 857,
+          "end": 899,
+          "skills": [
+            "光学"
+          ]
+        },
+        {
+          "segment_id": "seg_022",
+          "section": "requirements",
+          "text": "1、本科及以上(80%",
+          "start": 907,
+          "end": 918,
+          "skills": [
+            "本科"
+          ]
+        },
+        {
+          "segment_id": "seg_023",
+          "section": "requirements",
+          "text": "岗位要求),硕士优先",
+          "start": 919,
+          "end": 929,
+          "skills": [
+            "硕士"
+          ]
+        },
+        {
+          "segment_id": "seg_024",
+          "section": "requirements",
+          "text": "2、电子信息工程、通信工程、光电信息科学与工程、光学工程、微电子、射频 / 微波等相关专业",
+          "start": 931,
+          "end": 976,
+          "skills": [
+            "光学"
+          ]
+        }
+      ],
+      "benefits": [],
+      "published_at": "2026-07-22T08:09:09.903983Z",
+      "changed_at": "2026-07-22T08:09:39.057585Z",
+      "source_platform": "zhaopin",
+      "source_url": "https://www.zhaopin.com/jobdetail/CCL1303156430J41009078204.htm",
+      "job_status": "active",
+      "change_type": "new"
+    }
+  },
+  {
+    "job_id": "zhaopin:CC390462630J40830941214",
+    "updated_at": "2026-07-22T08:07:17.221524+00:00",
+    "payload": {
+      "source_id": "zhaopin:CC390462630J40830941214",
+      "source_type": "jd",
+      "domain": "智能系统",
+      "title": "助理结构工程师(2026届)",
+      "content": "实习/试用期工资:5000元+1500元浮动绩效。转正:8K-15K(根据能力水平评定) 【公司简介】 我司成立于2016年,是安卓智能设备(人脸识别测温门禁机、人脸识别访客机、人脸识别收银系统,商显广告机等)源头工厂,国家高新技术企业。公司聚焦于智能产品的硬件、软件、结构的研发及生产交付,公司自配PCBA SMT及整机组包装制造部。该岗位要求如下:【任职要求】: 1、熟悉相关的2D/3D结构设计制图软件,熟练掌握WORD、EXCEL等办公软件。 2、熟悉常用材料的特性以及工艺成型特性,包括不限于塑胶、钣金、压铸、挤压成型、CNC机加工等;对于塑料、金属产品的表面涂装设计及制造工艺有初步了解。 4、责任心强,有团队合作意识,工作思路清晰,有较强的分析能力和快速反应能力。 4、能吃苦耐劳,愿意投入身心学习智能领域的技术,自主追求在技术或管理上的突破。 5、本科学历,工业设计等相关专业。 【岗位职责】: 1、协助资深结构工程师对自研产品与客户定制产品的结构建模堆叠及产品化。 2、负责产品3D成型或模具后的装配测试工作,解决简易的结构装配问题,输出各种结构验证报告,及时配合资深结构工程师完成项目计划。 3、负责产品的技术文档(不限于3D、2D图,产品的六面图,结构BOM清单等)编制,及各种结构件生产资料的输出,可靠性测试报告。 4、协助资深结构工程师对产品结构问题点分析解决以及方案改善的落实,确保所负责的产品生产顺利。*-------------*----------------*----------------*----------------*----------------*---------------*------------* 【博时特平台概况】: 1. 【公司硬实力】:硬件配套设施完善,厂区面积合计达14000+m2;立足深耕于IoT行业,在短短6年内赢得腾讯、百度、烽火、长城等行业头部客户过千万级的订单,产品远销欧美发达国家。 2. 【研发优势】:具有优秀的研发定创新、产品化和资源整合及能力,公司50%以上职员为软件、硬件、结构等高层次研发设计人员,并与湖南科技大学签署战略产研合作,逐步形成产、学、工、研一体化布局,公司能实现行业全场景的产品及解决方案技术,迄今为止贡献了六十多项国家专利,荣获深圳龙华创新100强企业,被认定为***高新技术企业、专精特新企业。 3. 【业务优势】:提供端到端的ODM服务,从对接客户的场景需求,到研发设计及技术实现、高效的批量生产制造,赋能下游客户实现场景升级,提供灵活、柔性的制造优势,为客户提供深度差异化的产品及服务。 4. 【制造优势】:进口的PCBA成套生产设备及自研智能MES系统流水线体,同行产品定制周期普遍在60-90天,而博时特最快可在30天内交付,同单次***可承接千万元级别的定制化订单,能较好地满足订单排产和交付需求。 5. 【管理优势】:公司CEO创业前在芯片龙头行业Marvell任职资深SI,具有优秀的经营思路,对公司品牌、营销、产品等都有过人看法并得到了市场的成功检验; COO曾在华为出任技术部门总监,在公司流程体系建设、供应链管理及交付运营管理等方面都具备独特的管理方式。公司领导人有信念、有追求,有敢于冒险、敢于在不确定中追求更大发展成果,一心一意谋发展,具备一种能感召客户追求卓越的企业家精神品质。 6. 【培养体系】:入职即分配岗位导师,为新员工量身定制培训指引方案,陪伴式指引新员工熟悉公司环境及岗位工作内容,随时答疑解惑助力成长。 7. 【组织氛围】:博时特员工行为准则引导每位员工健康正向的价值观:勤劳奋斗、诚信担当、自信果敢,绝不允许拉帮结派、撒谎扯皮等负向行为的存在; 8. 【作息时间】:每天9:00-18:30,平时双休,每月最后一周的周六需全天出勤。 9. 【薪资待遇】:固定底薪+浮动绩效,定期人才盘点,卓越表现者年度有机会获得年终奖励及额外的卓越贡献奖; 10. 【带薪假期】:含法定假日、婚假/产假/陪产假/年假等,春节假期可调休将近15天。 11. 【食宿情况】:宿舍配置独立阳台及卫生间、空调、热水器;茶水间有冰箱微波炉可热饭;外送午餐定时送至公司用餐区自选,美味可口且方便快捷; 12. 【社保情况】:正式入职当月即缴纳五险一金;实习生(取得毕业证后)购买五险一金。 13. 【其他福利】:节假日礼品、独立园区免费停车位、年度健康体检、公租房、人才补贴、拓展旅游(已组织泰国游7日、西双版纳五日游、桂林三日游、清远漂流、 广州漂流、水果采摘、美食DIY等活动)等......",
+      "raw_content": "实习/试用期工资：5000元+1500元浮动绩效。转正：8K-15K（根据能力水平评定）  【公司简介】 我司成立于2016年，是安卓智能设备（人脸识别测温门禁机、人脸识别访客机、人脸识别收银系统，商显广告机等）源头工厂，国家高新技术企业。公司聚焦于智能产品的硬件、软件、结构的研发及生产交付，公司自配PCBA SMT及整机组包装制造部。该岗位要求如下：【任职要求】：  1、熟悉相关的2D/3D结构设计制图软件，熟练掌握WORD、EXCEL等办公软件。  2、熟悉常用材料的特性以及工艺成型特性，包括不限于塑胶、钣金、压铸、挤压成型、CNC机加工等；对于塑料、金属产品的表面涂装设计及制造工艺有初步了解。  4、责任心强，有团队合作意识，工作思路清晰，有较强的分析能力和快速反应能力。  4、能吃苦耐劳，愿意投入身心学习智能领域的技术，自主追求在技术或管理上的突破。  5、本科学历，工业设计等相关专业。  【岗位职责】：  1、协助资深结构工程师对自研产品与客户定制产品的结构建模堆叠及产品化。  2、负责产品3D成型或模具后的装配测试工作，解决简易的结构装配问题，输出各种结构验证报告，及时配合资深结构工程师完成项目计划。  3、负责产品的技术文档(不限于3D、2D图，产品的六面图，结构BOM清单等)编制，及各种结构件生产资料的输出，可靠性测试报告。  4、协助资深结构工程师对产品结构问题点分析解决以及方案改善的落实，确保所负责的产品生产顺利。*-------------*----------------*----------------*----------------*----------------*---------------*------------*  【博时特平台概况】： 1. 【公司硬实力】：硬件配套设施完善，厂区面积合计达14000+㎡；立足深耕于IoT行业，在短短6年内赢得腾讯、百度、烽火、长城等行业头部客户过千万级的订单，产品远销欧美发达国家。 2. 【研发优势】：具有优秀的研发定创新、产品化和资源整合及能力，公司50%以上职员为软件、硬件、结构等高层次研发设计人员，并与湖南科技大学签署战略产研合作，逐步形成产、学、工、研一体化布局，公司能实现行业全场景的产品及解决方案技术，迄今为止贡献了六十多项国家专利，荣获深圳龙华创新100强企业，被认定为***高新技术企业、专精特新企业。 3. 【业务优势】：提供端到端的ODM服务，从对接客户的场景需求，到研发设计及技术实现、高效的批量生产制造，赋能下游客户实现场景升级，提供灵活、柔性的制造优势，为客户提供深度差异化的产品及服务。 4. 【制造优势】：进口的PCBA成套生产设备及自研智能MES系统流水线体，同行产品定制周期普遍在60-90天，而博时特最快可在30天内交付，同单次***可承接千万元级别的定制化订单，能较好地满足订单排产和交付需求。 5. 【管理优势】：公司CEO创业前在芯片龙头行业Marvell任职资深SI，具有优秀的经营思路，对公司品牌、营销、产品等都有过人看法并得到了市场的成功检验； COO曾在华为出任技术部门总监，在公司流程体系建设、供应链管理及交付运营管理等方面都具备独特的管理方式。公司领导人有信念、有追求，有敢于冒险、敢于在不确定中追求更大发展成果，一心一意谋发展，具备一种能感召客户追求卓越的企业家精神品质。 6. 【培养体系】：入职即分配岗位导师，为新员工量身定制培训指引方案，陪伴式指引新员工熟悉公司环境及岗位工作内容，随时答疑解惑助力成长。 7. 【组织氛围】：博时特员工行为准则引导每位员工健康正向的价值观：勤劳奋斗、诚信担当、自信果敢，绝不允许拉帮结派、撒谎扯皮等负向行为的存在； 8. 【作息时间】：每天9:00-18:30，平时双休，每月最后一周的周六需全天出勤。 9. 【薪资待遇】：固定底薪+浮动绩效，定期人才盘点，卓越表现者年度有机会获得年终奖励及额外的卓越贡献奖； 10. 【带薪假期】：含法定假日、婚假/产假/陪产假/年假等，春节假期可调休将近15天。 11. 【食宿情况】：宿舍配置独立阳台及卫生间、空调、热水器；茶水间有冰箱微波炉可热饭；外送午餐定时送至公司用餐区自选，美味可口且方便快捷； 12. 【社保情况】：正式入职当月即缴纳五险一金；实习生（取得毕业证后）购买五险一金。 13. 【其他福利】：节假日礼品、独立园区免费停车位、年度健康体检、公租房、人才补贴、拓展旅游（已组织泰国游7日、西双版纳五日游、桂林三日游、清远漂流、 广州漂流、水果采摘、美食DIY等活动）等…...",
+      "collected_at": "2026-07-22T08:07:17.203632Z",
+      "quality_score": 92.0,
+      "dedup_hash": "bd281fe7a0e7e9010b6bf4cf",
+      "metadata": {
+        "browser_assisted": true,
+        "research_collection": true,
+        "team_pipeline_adapter": true,
+        "cdp_session": true,
+        "query": "IoT 工程师",
+        "search_city": "长沙",
+        "search_page": 48,
+        "salary_raw": "8000-15000元",
+        "identity_hash": "e98bde8bf04a479c5ac48ebf",
+        "quality_issues": [],
+        "raw_domain": null,
+        "collection_mode": "live",
+        "evidence_role": "primary",
+        "salary_period": null,
+        "remote": false,
+        "content_char_count": 1910,
+        "content_sha256": "68d56a218772ed926319bb8b25faf222e187ef53b2d0bfd5ef43eadffca252b6",
+        "section_counts": {
+          "responsibilities": 1,
+          "requirements": 10,
+          "evidence_segments": 34
+        }
+      },
+      "source_category": "recruitment",
+      "company": "深圳博时特科技有限公司",
+      "company_industry": null,
+      "company_size": null,
+      "salary_min_k": 8,
+      "salary_max_k": 15,
+      "salary_months": 12,
+      "currency": "CNY",
+      "city": "深圳",
+      "district": "龙华",
+      "experience_min_years": null,
+      "experience_max_years": null,
+      "education": "本科",
+      "employment_type": "full_time",
+      "skill_tags": [
+        "本科",
+        "SolidWorks",
+        "CREO",
+        "AutoCAD",
+        "年轻团队",
+        "1-3年",
+        "电气设备",
+        "精密设备",
+        "装配工艺",
+        "UGNX",
+        "半导体/芯片",
+        "电子设备制造",
+        "大专",
+        "3-5年",
+        "机械设计",
+        "机电一体化",
+        "Solidworks",
+        "通用设备制造",
+        "专用设备制造",
+        "工业自动化/机器人",
+        "机器人关节模组",
+        "谐波减速器",
+        "无框力矩电机",
+        "精密传动"
+      ],
+      "responsibilities": [
+        "公司聚焦于智能产品的硬件、软件、结构的研发及生产交付,公司自配PCBA SMT及整机组包装制造部"
+      ],
+      "requirements": [
+        "岗位要求如下:【",
+        "1、熟悉相关的2D/3D结构设计制图软件,熟练掌握WORD、EXCEL等办公软件",
+        "2、熟悉常用材料的特性以及工艺成型特性,包括不限于塑胶、钣金、压铸、挤压成型、CNC机加工等",
+        "对于塑料、金属产品的表面涂装设计及制造工艺有初步了解",
+        "4、责任心强,有团队合作意识,工作思路清晰,有较强的分析能力和快速反应能力",
+        "5、本科学历,工业设计等相关专业",
+        "2. 【研发优势】:具有优秀的研发定创新、产品化和资源整合及能力,公司50%以上职员为软件、硬件、结构等高层次研发设计人员,并与湖南科技大学签署战略产研合作,逐步形成产、学、工、研一体化布局,公司能实现行业全场景的产品及解决方案技术,迄今为止贡献了六十多项国家专利,荣获深圳龙华创新100强企业,被认定为***高新技术企业、专精特新企业",
+        "COO曾在华为出任技术部门总监,在公司流程体系建设、供应链管理及交付运营管理等方面都具备独特的管理方式",
+        "公司领导人有信念、有追求,有敢于冒险、敢于在不确定中追求更大发展成果,一心一意谋发展,具备一种能感召客户追求卓越的企业家精神品质",
+        "6. 【培养体系】:入职即分配岗位导师,为新员工量身定制培训指引方案,陪伴式指引新员工熟悉公司环境及岗位工作内容,随时答疑解惑助力成长"
+      ],
+      "evidence_segments": [
+        {
+          "segment_id": "seg_001",
+          "section": "responsibilities",
+          "text": "实习/试用期工资:5000元+1500元浮动绩效",
+          "start": 0,
+          "end": 24,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_002",
+          "section": "responsibilities",
+          "text": "转正:8K-15K(根据能力水平评定) 【公司简介】 我司成立于2016年,是安卓智能设备(人脸识别测温门禁机、人脸识别访客机、人脸识别收银系统,商显广告机等)源头工厂,国家高新技术企业",
+          "start": 25,
+          "end": 118,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_003",
+          "section": "responsibilities",
+          "text": "公司聚焦于智能产品的硬件、软件、结构的研发及生产交付,公司自配PCBA SMT及整机组包装制造部",
+          "start": 119,
+          "end": 167,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_004",
+          "section": "requirements",
+          "text": "岗位要求如下:【",
+          "start": 169,
+          "end": 177,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_005",
+          "section": "requirements",
+          "text": "1、熟悉相关的2D/3D结构设计制图软件,熟练掌握WORD、EXCEL等办公软件",
+          "start": 184,
+          "end": 224,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_006",
+          "section": "requirements",
+          "text": "2、熟悉常用材料的特性以及工艺成型特性,包括不限于塑胶、钣金、压铸、挤压成型、CNC机加工等",
+          "start": 226,
+          "end": 272,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_007",
+          "section": "requirements",
+          "text": "对于塑料、金属产品的表面涂装设计及制造工艺有初步了解",
+          "start": 273,
+          "end": 299,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_008",
+          "section": "requirements",
+          "text": "4、责任心强,有团队合作意识,工作思路清晰,有较强的分析能力和快速反应能力",
+          "start": 301,
+          "end": 338,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_009",
+          "section": "requirements",
+          "text": "4、能吃苦耐劳,愿意投入身心学习智能领域的技术,自主追求在技术或管理上的突破",
+          "start": 340,
+          "end": 378,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_010",
+          "section": "requirements",
+          "text": "5、本科学历,工业设计等相关专业",
+          "start": 380,
+          "end": 396,
+          "skills": [
+            "本科"
+          ]
+        },
+        {
+          "segment_id": "seg_011",
+          "section": "requirements",
+          "text": "1、协助资深结构工程师对自研产品与客户定制产品的结构建模堆叠及产品化",
+          "start": 406,
+          "end": 440,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_012",
+          "section": "requirements",
+          "text": "2、负责产品3D成型或模具后的装配测试工作,解决简易的结构装配问题,输出各种结构验证报告,及时配合资深结构工程师完成项目计划",
+          "start": 442,
+          "end": 504,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_013",
+          "section": "requirements",
+          "text": "3、负责产品的技术文档(不限于3D、2D图,产品的六面图,结构BOM清单等)编制,及各种结构件生产资料的输出,可靠性测试报告",
+          "start": 506,
+          "end": 568,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_014",
+          "section": "requirements",
+          "text": "4、协助资深结构工程师对产品结构问题点分析解决以及方案改善的落实,确保所负责的产品生产顺利",
+          "start": 570,
+          "end": 615,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_015",
+          "section": "requirements",
+          "text": "*-------------*----------------*----------------*----------------*----------------*---------------*------------* 【博时特平台概况】:",
+          "start": 616,
+          "end": 739,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_016",
+          "section": "requirements",
+          "text": "1. 【公司硬实力】:硬件配套设施完善,厂区面积合计达14000+m2",
+          "start": 740,
+          "end": 775,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_017",
+          "section": "requirements",
+          "text": "立足深耕于IoT行业,在短短6年内赢得腾讯、百度、烽火、长城等行业头部客户过千万级的订单,产品远销欧美发达国家",
+          "start": 776,
+          "end": 831,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_018",
+          "section": "requirements",
+          "text": "2. 【研发优势】:具有优秀的研发定创新、产品化和资源整合及能力,公司50%以上职员为软件、硬件、结构等高层次研发设计人员,并与湖南科技大学签署战略产研合作,逐步形成产、学、工、研一体化布局,公司能实现行业全场景的产品及解决方案技术,迄今为止贡献了六十多项国家专利,荣获深圳龙华创新100强企业,被认定为***高新技术企业、专精特新企业",
+          "start": 833,
+          "end": 1001,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_019",
+          "section": "requirements",
+          "text": "3. 【业务优势】:提供端到端的ODM服务,从对接客户的场景需求,到研发设计及技术实现、高效的批量生产制造,赋能下游客户实现场景升级,提供灵活、柔性的制造优势,为客户提供深度差异化的产品及服务",
+          "start": 1003,
+          "end": 1099,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_020",
+          "section": "requirements",
+          "text": "4. 【制造优势】:进口的PCBA成套生产设备及自研智能MES系统流水线体,同行产品定制周期普遍在60-90天,而博时特最快可在30天内交付,同单次***可承接千万元级别的定制化订单,能较好地满足订单排产和交付需求",
+          "start": 1101,
+          "end": 1208,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_021",
+          "section": "requirements",
+          "text": "5. 【管理优势】:公司CEO创业前在芯片龙头行业Marvell任职资深SI,具有优秀的经营思路,对公司品牌、营销、产品等都有过人看法并得到了市场的成功检验",
+          "start": 1210,
+          "end": 1288,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_022",
+          "section": "requirements",
+          "text": "COO曾在华为出任技术部门总监,在公司流程体系建设、供应链管理及交付运营管理等方面都具备独特的管理方式",
+          "start": 1290,
+          "end": 1341,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_023",
+          "section": "requirements",
+          "text": "公司领导人有信念、有追求,有敢于冒险、敢于在不确定中追求更大发展成果,一心一意谋发展,具备一种能感召客户追求卓越的企业家精神品质",
+          "start": 1342,
+          "end": 1406,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_024",
+          "section": "requirements",
+          "text": "6. 【培养体系】:入职即分配岗位导师,为新员工量身定制培训指引方案,陪伴式指引新员工熟悉公司环境及岗位工作内容,随时答疑解惑助力成长",
+          "start": 1408,
+          "end": 1475,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_025",
+          "section": "requirements",
+          "text": "7. 【组织氛围】:博时特员工行为准则引导每位员工健康正向的价值观:勤劳奋斗、诚信担当、自信果敢,绝不允许拉帮结派、撒谎扯皮等负向行为的存在",
+          "start": 1477,
+          "end": 1547,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_026",
+          "section": "requirements",
+          "text": "8. 【作息时间】:每天9:00-18:30,平时双休,每月最后一周的周六需全天出勤",
+          "start": 1549,
+          "end": 1591,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_027",
+          "section": "requirements",
+          "text": "9. 【薪资待遇】:固定底薪+浮动绩效,定期人才盘点,卓越表现者年度有机会获得年终奖励及额外的卓越贡献奖",
+          "start": 1593,
+          "end": 1645,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_028",
+          "section": "requirements",
+          "text": "10. 【带薪假期】:含法定假日、婚假/产假/陪产假/年假等,春节假期可调休将近15天",
+          "start": 1647,
+          "end": 1690,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_029",
+          "section": "requirements",
+          "text": "11. 【食宿情况】:宿舍配置独立阳台及卫生间、空调、热水器",
+          "start": 1692,
+          "end": 1722,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_030",
+          "section": "requirements",
+          "text": "茶水间有冰箱微波炉可热饭",
+          "start": 1723,
+          "end": 1735,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_031",
+          "section": "requirements",
+          "text": "外送午餐定时送至公司用餐区自选,美味可口且方便快捷",
+          "start": 1736,
+          "end": 1761,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_032",
+          "section": "requirements",
+          "text": "12. 【社保情况】:正式入职当月即缴纳五险一金",
+          "start": 1763,
+          "end": 1787,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_033",
+          "section": "requirements",
+          "text": "实习生(取得毕业证后)购买五险一金",
+          "start": 1788,
+          "end": 1805,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_034",
+          "section": "requirements",
+          "text": "13. 【其他福利】:节假日礼品、独立园区免费停车位、年度健康体检、公租房、人才补贴、拓展旅游(已组织泰国游7日、西双版纳五日游、桂林三日游、清远漂流、 广州漂流、水果采摘、美食DIY等活动)等......",
+          "start": 1807,
+          "end": 1910,
+          "skills": []
+        }
+      ],
+      "benefits": [],
+      "published_at": "2026-07-22T08:07:17.073617Z",
+      "changed_at": "2026-07-22T08:07:17.208435Z",
+      "source_platform": "zhaopin",
+      "source_url": "https://www.zhaopin.com/jobdetail/CC390462630J40830941214.htm",
+      "job_status": "active",
+      "change_type": "new"
+    }
+  },
+  {
+    "job_id": "zhaopin:CCL1453071340J40957239815",
+    "updated_at": "2026-07-22T07:54:48.046305+00:00",
+    "payload": {
+      "source_id": "zhaopin:CCL1453071340J40957239815",
+      "source_type": "jd",
+      "domain": "大数据",
+      "title": "数据处理工程师",
+      "content": "工作职责:1. 负责医疗领域结构化与非结构化数据的清洗、标注与标准化处理,保障数据质量符合算法训练要求。2. 参与医疗数据处理流程的优化与自动化工具开发,提升数据处理效率与准确率。3. 与算法团队协作,理解模型对数据的需求,输出满足业务场景的高质量训练数据集。4. 整理医疗数据处理过程中的问题与经验,形成标准化操作文档,推动团队知识沉淀。任职要求:1. 本科及以上学历,计算机、统计学、医学信息工程等相关专业优先。2. 具备医疗数据处理经验,熟悉电子病历、医学影像等医疗数据的结构与业务逻辑。3. 熟练掌握SQL、Python等数据处理工具,能独立完成数据清洗、转换与验证工作。4. 具备良好的问题分析能力与细节把控意识,能快速定位并解决数据处理中的异常问题。",
+      "raw_content": "工作职责：1. 负责医疗领域结构化与非结构化数据的清洗、标注与标准化处理，保障数据质量符合算法训练要求。2. 参与医疗数据处理流程的优化与自动化工具开发，提升数据处理效率与准确率。3. 与算法团队协作，理解模型对数据的需求，输出满足业务场景的高质量训练数据集。4. 整理医疗数据处理过程中的问题与经验，形成标准化操作文档，推动团队知识沉淀。任职要求：1. 本科及以上学历，计算机、统计学、医学信息工程等相关专业优先。2. 具备医疗数据处理经验，熟悉电子病历、医学影像等医疗数据的结构与业务逻辑。3. 熟练掌握SQL、Python等数据处理工具，能独立完成数据清洗、转换与验证工作。4. 具备良好的问题分析能力与细节把控意识，能快速定位并解决数据处理中的异常问题。",
+      "collected_at": "2026-07-22T07:54:48.030052Z",
+      "quality_score": 96.0,
+      "dedup_hash": "2ff32366adcf8504152b4b95",
+      "metadata": {
+        "browser_assisted": true,
+        "research_collection": true,
+        "team_pipeline_adapter": true,
+        "cdp_session": true,
+        "query": "数据治理工程师",
+        "search_city": "长沙",
+        "search_page": 1,
+        "salary_raw": "1-1.5万·13薪",
+        "identity_hash": "85d1f3a87a5a7f0b2f22b72b",
+        "quality_issues": [],
+        "raw_domain": null,
+        "collection_mode": "live",
+        "evidence_role": "primary",
+        "salary_period": null,
+        "remote": false,
+        "content_char_count": 331,
+        "content_sha256": "5306394d6b3a290e4348e338623853c1ea4961360575b1e9c4551bf7e67c29f2",
+        "section_counts": {
+          "responsibilities": 3,
+          "requirements": 4,
+          "evidence_segments": 8
+        }
+      },
+      "source_category": "recruitment",
+      "company": "山东初三信息科技有限公司",
+      "company_industry": null,
+      "company_size": null,
+      "salary_min_k": 1,
+      "salary_max_k": 2,
+      "salary_months": 13,
+      "currency": "CNY",
+      "city": "济南",
+      "district": "历下",
+      "experience_min_years": null,
+      "experience_max_years": null,
+      "education": "本科",
+      "employment_type": "full_time",
+      "skill_tags": [
+        "Python",
+        "SQL",
+        "数据仓库",
+        "大专",
+        "1-3年",
+        "报表开发",
+        "数据挖掘",
+        "影刀",
+        "RPA",
+        "EXCAL函数",
+        "服装/纺织/皮革制造",
+        "互联网电商",
+        "早九晚六",
+        "额外全勤奖",
+        "工龄奖",
+        "底薪加提成",
+        "绩效奖金",
+        "五险一金",
+        "零食下午茶",
+        "节假日奖金",
+        "本科",
+        "销售预测模型",
+        "销售计划",
+        "数据建模"
+      ],
+      "responsibilities": [
+        "1. 负责医疗领域结构化与非结构化数据的清洗、标注与标准化处理,保障数据质量符合算法训练要求",
+        "2. 参与医疗数据处理流程的优化与自动化工具开发,提升数据处理效率与准确率",
+        "4. 整理医疗数据处理过程中的问题与经验,形成标准化操作文档,推动团队知识沉淀"
+      ],
+      "requirements": [
+        "1. 本科及以上学历,计算机、统计学、医学信息工程等相关专业优先",
+        "2. 具备医疗数据处理经验,熟悉电子病历、医学影像等医疗数据的结构与业务逻辑",
+        "3. 熟练掌握SQL、Python等数据处理工具,能独立完成数据清洗、转换与验证工作",
+        "4. 具备良好的问题分析能力与细节把控意识,能快速定位并解决数据处理中的异常问题"
+      ],
+      "evidence_segments": [
+        {
+          "segment_id": "seg_001",
+          "section": "responsibilities",
+          "text": "1. 负责医疗领域结构化与非结构化数据的清洗、标注与标准化处理,保障数据质量符合算法训练要求",
+          "start": 5,
+          "end": 51,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_002",
+          "section": "responsibilities",
+          "text": "2. 参与医疗数据处理流程的优化与自动化工具开发,提升数据处理效率与准确率",
+          "start": 52,
+          "end": 89,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_003",
+          "section": "responsibilities",
+          "text": "3. 与算法团队协作,理解模型对数据的需求,输出满足业务场景的高质量训练数据集",
+          "start": 90,
+          "end": 129,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_004",
+          "section": "responsibilities",
+          "text": "4. 整理医疗数据处理过程中的问题与经验,形成标准化操作文档,推动团队知识沉淀",
+          "start": 130,
+          "end": 169,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_005",
+          "section": "requirements",
+          "text": "1. 本科及以上学历,计算机、统计学、医学信息工程等相关专业优先",
+          "start": 175,
+          "end": 207,
+          "skills": [
+            "本科"
+          ]
+        },
+        {
+          "segment_id": "seg_006",
+          "section": "requirements",
+          "text": "2. 具备医疗数据处理经验,熟悉电子病历、医学影像等医疗数据的结构与业务逻辑",
+          "start": 208,
+          "end": 246,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_007",
+          "section": "requirements",
+          "text": "3. 熟练掌握SQL、Python等数据处理工具,能独立完成数据清洗、转换与验证工作",
+          "start": 247,
+          "end": 289,
+          "skills": [
+            "Python",
+            "SQL"
+          ]
+        },
+        {
+          "segment_id": "seg_008",
+          "section": "requirements",
+          "text": "4. 具备良好的问题分析能力与细节把控意识,能快速定位并解决数据处理中的异常问题",
+          "start": 290,
+          "end": 330,
+          "skills": []
+        }
+      ],
+      "benefits": [],
+      "published_at": "2026-07-22T07:54:16.852406Z",
+      "changed_at": "2026-07-22T07:54:48.034209Z",
+      "source_platform": "zhaopin",
+      "source_url": "https://www.zhaopin.com/jobdetail/CCL1453071340J40957239815.htm",
+      "job_status": "active",
+      "change_type": "new"
+    }
+  },
+  {
+    "job_id": "boss:e5f54505f34663d70nF_0t26FltZ",
+    "updated_at": "2026-07-20T17:53:03.881725+00:00",
+    "payload": {
+      "source_id": "boss:e5f54505f34663d70nF_0t26FltZ",
+      "source_type": "jd",
+      "domain": "人工智能",
+      "title": "flink开发工程师",
+      "content": "岗位描述用户对用户的订单撮合场景,把 Taker 和 Maker 之间的关系依赖通过 Agent 完成的一个 Marketplace,让用户通过 Skill 的形式在自己的 chatbot 里获得完整的C2C / P2P 撮合交易能力。岗位职责1. Agent Harness 内核开发:Skill 加载、Memory 分层、Planner 调度、Tool Router 编排2. P2P 撮合 Agent 落地:Taker 单 × Maker 广告的秒级匹配、规则引擎 + LLM 混合决策、Human-in-loop 设计3. 事件驱动 + IM 内嵌:新单事件秒级触达 Maker,直接在 IM 里私聊推送---核心能力要求(请至少符合 2 条)- 独立造过 Agent Harness 或 Agent Runtime- 做过 C2C / P2P / B2C + Agent 撮合系统(用户对用户匹配、订单撮合、大宗询价、派单调度、婚恋匹配、二手交易、广告 RTB 之一都算)- 交易 / 支付 / 电商类系统经验——懂订单状态机、资金托管、风控信号、KYC/AML 合规流程- LangGraph / 自己做的 MCP 有生产落地- 拆过 Claude Code / Cursor / Devin / Manus / Codex 的 Agent Loop,并能改动它,上过生产环境有用户的",
+      "raw_content": "岗位描述用户对用户的订单撮合场景，把 Taker 和 Maker 之间的关系依赖通过 Agent 完成的一个 Marketplace，让用户通过 Skill 的形式在⾃⼰的 chatbot ⾥获得完整的C2C / P2P 撮合交易能力。岗位职责1. Agent Harness 内核开发：Skill 加载、Memory 分层、Planner 调度、Tool Router 编排2. P2P 撮合 Agent 落地：Taker 单 × Maker 广告的秒级匹配、规则引擎 + LLM 混合决策、Human-in-loop 设计3. 事件驱动 + IM 内嵌：新单事件秒级触达 Maker，直接在 IM ⾥私聊推送---核心能力要求（请至少符合 2 条）- 独立造过 Agent Harness 或 Agent Runtime- 做过 C2C / P2P / B2C + Agent 撮合系统（用户对用户匹配、订单撮合、大宗询价、派单调度、婚恋匹配、二手交易、广告 RTB 之一都算）- 交易 / 支付 / 电商类系统经验——懂订单状态机、资金托管、风控信号、KYC/AML 合规流程- LangGraph / 自己做的 MCP 有生产落地- 拆过 Claude Code / Cursor / Devin / Manus / Codex 的 Agent Loop，并能改动它，上过生产环境有用户的",
+      "collected_at": "2026-07-20T17:53:02.967634Z",
+      "quality_score": 94.0,
+      "dedup_hash": "7b77ba60058e96a55a60e31f",
+      "metadata": {
+        "browser_assisted": true,
+        "research_collection": true,
+        "query": "边缘网关工程师",
+        "search_city": "全国",
+        "search_page": 1,
+        "salary_raw_obfuscated": true,
+        "identity_hash": "1ce68c7d4a2c550ff210f66a",
+        "quality_issues": [],
+        "raw_domain": null,
+        "collection_mode": "live",
+        "evidence_role": "primary",
+        "salary_period": null,
+        "remote": false,
+        "content_char_count": 598,
+        "content_sha256": "93318a4ecebf2a728b1b244a049978c622940a8009b45e7f715441a2b6030ce4",
+        "section_counts": {
+          "responsibilities": 3,
+          "requirements": 2,
+          "evidence_segments": 4
+        }
+      },
+      "source_category": "recruitment",
+      "company": "深圳市易京科技",
+      "company_industry": null,
+      "company_size": null,
+      "salary_min_k": null,
+      "salary_max_k": null,
+      "salary_months": 12,
+      "currency": "CNY",
+      "city": "北京",
+      "district": "朝阳区",
+      "experience_min_years": null,
+      "experience_max_years": null,
+      "education": "本科",
+      "employment_type": "full_time",
+      "skill_tags": [
+        "LangGraph",
+        "LLM",
+        "Flink",
+        "员工旅游",
+        "带薪年假",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "responsibilities": [
+        "1. Agent Harness 内核开发:Skill 加载、Memory 分层、Planner 调度、Tool Router 编排",
+        "2. P2P 撮合 Agent 落地:Taker 单 × Maker 广告的秒级匹配、规则引擎 + LLM 混合决策、Human-in-loop 设计",
+        "3. 事件驱动 + IM 内嵌:新单事件秒级触达 Maker,直接在 IM 里私聊推送---核心能力要求(请至少符合 2 条)- 独立造过 Agent Harness 或 Agent Runtime- 做过 C2C / P2P / B2C + Agent 撮合系统(用户对用户匹配、订单撮合、大宗询价、派单调度、婚恋匹配、二手交易、广告 RTB 之一都算)- 交易 / 支付 / 电商类系统经验——懂订单状态机、资金托管、风控信号、KYC/AML 合规流程- LangGraph / 自己做的 MCP 有生产落地- 拆过 Claude Code / Cursor / Devin / Manus / Codex 的 Agent Loop,并能改动它,上过生产环境有用户的"
+      ],
+      "requirements": [
+        "岗位描述用户对用户的订单撮合场景,把 Taker 和 Maker 之间的关系依赖通过 Agent 完成的一个 Marketplace,让用户通过 Skill 的形式在自己的 chatbot 里获得完整的C2C / P2P 撮合交易能力",
+        "3. 事件驱动 + IM 内嵌:新单事件秒级触达 Maker,直接在 IM 里私聊推送---核心能力要求(请至少符合 2 条)- 独立造过 Agent Harness 或 Agent Runtime- 做过 C2C / P2P / B2C + Agent 撮合系统(用户对用户匹配、订单撮合、大宗询价、派单调度、婚恋匹配、二手交易、广告 RTB 之一都算)- 交易 / 支付 / 电商类系统经验——懂订单状态机、资金托管、风控信号、KYC/AML 合规流程- LangGraph / 自己做的 MCP 有生产落地- 拆过 Claude Code / Cursor / Devin / Manus / Codex 的 Agent Loop,并能改动它,上过生产环境有用户的"
+      ],
+      "evidence_segments": [
+        {
+          "segment_id": "seg_001",
+          "section": "responsibilities",
+          "text": "岗位描述用户对用户的订单撮合场景,把 Taker 和 Maker 之间的关系依赖通过 Agent 完成的一个 Marketplace,让用户通过 Skill 的形式在自己的 chatbot 里获得完整的C2C / P2P 撮合交易能力",
+          "start": 0,
+          "end": 117,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_002",
+          "section": "responsibilities",
+          "text": "1. Agent Harness 内核开发:Skill 加载、Memory 分层、Planner 调度、Tool Router 编排",
+          "start": 122,
+          "end": 188,
+          "skills": []
+        },
+        {
+          "segment_id": "seg_003",
+          "section": "responsibilities",
+          "text": "2. P2P 撮合 Agent 落地:Taker 单 × Maker 广告的秒级匹配、规则引擎 + LLM 混合决策、Human-in-loop 设计",
+          "start": 188,
+          "end": 263,
+          "skills": [
+            "LLM"
+          ]
+        },
+        {
+          "segment_id": "seg_004",
+          "section": "responsibilities",
+          "text": "3. 事件驱动 + IM 内嵌:新单事件秒级触达 Maker,直接在 IM 里私聊推送---核心能力要求(请至少符合 2 条)- 独立造过 Agent Harness 或 Agent Runtime- 做过 C2C / P2P / B2C + Agent 撮合系统(用户对用户匹配、订单撮合、大宗询价、派单调度、婚恋匹配、二手交易、广告 RTB 之一都算)- 交易 / 支付 / 电商类系统经验——懂订单状态机、资金托管、风控信号、KYC/AML 合规流程- LangGraph / 自己做的 MCP 有生产落地- 拆过 Claude Code / Cursor / Devin / Manus / Codex 的 Agent Loop,并能改动它,上过生产环境有用户的",
+          "start": 263,
+          "end": 598,
+          "skills": [
+            "LangGraph"
+          ]
+        }
+      ],
+      "benefits": [],
+      "published_at": "2026-07-20T17:53:00.327802Z",
+      "changed_at": "2026-07-20T17:53:02.973032Z",
+      "source_platform": "boss",
+      "source_url": "https://www.zhipin.com/job_detail/e5f54505f34663d70nF_0t26FltZ.html",
+      "job_status": "active",
+      "change_type": "new"
+    }
+  }
+]

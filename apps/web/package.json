@@ -1,0 +1,25 @@
+{
+  "name": "talentgraph-evo-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@heroui/react": "^3.2.2",
+    "@heroui/styles": "^3.2.2",
+    "@vitejs/plugin-react": "latest",
+    "cytoscape": "latest",
+    "echarts": "latest",
+    "lucide-react": "latest",
+    "motion": "^12.42.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwind-variants": "^3.3.0",
+    "three": "^0.185.1",
+    "vite": "latest"
+  }
+}
